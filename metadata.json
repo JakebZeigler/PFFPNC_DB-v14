@@ -1,0 +1,6 @@
+{
+  "name": "PFFPNC Database Management System v14.0",
+  "description": "A comprehensive, production-grade modular web application for managing customers, agents, dispositions, and other related data for PFFPNC. Features full CRUD operations, advanced reporting, user authentication, and role-based access control.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
